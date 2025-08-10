@@ -6,7 +6,9 @@
 
 ## 🚀 소개
 
-iOS와 서버 개발을 전문으로 하는 개발자입니다. 모바일 애플리케이션과 서버 시스템 개발에 대한 15년 이상의 경험을 갖추고 있으며, 성능 최적화와 클린 아키텍처에 대한 깊은 이해를 바탕으로 견고한 소프트웨어를 구축합니다. SwiftUI, Concurrency, Kotlin, Spring Boot 등 최신 기술을 활용한 개발을 지향합니다.
+iOS와 flutter 개발을 전문으로 하는 개발자입니다. 
+모바일 애플리케이션 개발을 포함하여 15년 이상의 경험을 갖추고 있으며, 
+성능 최적화와 클린 아키텍처에 대한 깊은 이해를 바탕으로 견고한 소프트웨어를 구축합니다. SwiftUI, Combine, Concurrency 등 최신 기술을 활용한 개발을 지향합니다.
 
 ## 💼 경력
 
@@ -120,7 +122,7 @@ iOS와 서버 개발을 전문으로 하는 개발자입니다. 모바일 애플
 - **개발 기간**: 2021.03.21 ~ 2021.05.25
 - **설명**: 가상화폐 거래소 앱인 Flybit iOS 앱 신규개발 및 유지보수
 - **기술**: Swift, RxSwift, git, Realm, firebase, WebSocket, non-storyboard, RxAlamofire
-- **링크**: [App Store](https://apps.apple.com/us/app/flybit/id1570368673)
+- **링크**: [App Store](https://apps.apple.com/kr/app/flybit/id1570368673)
 
 <div align="center">
   <img src="images/Flybit/Flybit_1.PNG" width="160"/>
@@ -128,6 +130,17 @@ iOS와 서버 개발을 전문으로 하는 개발자입니다. 모바일 애플
   <img src="images/Flybit/Flybit_3.PNG" width="160"/>
   <img src="images/Flybit/Flybit_4.PNG" width="160"/>
 </div>
+
+### 결제앱
+![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Unit Test](https://img.shields.io/badge/Unit_Test-25A162?style=flat-square)
+
+- **소속**: 빅솔론
+- **설명**: AppToApp방식의 결제앱으로 Kicc/KsNet 인증을 받은 결제 앱 제공
+- **기술**: Objective-C, Snapkit, Unit test, git
+- **링크**: [App Store](https://apps.apple.com/us/app/icpay/id1139655329)
+
 
 ### 통신/데이터 공통 라이브러리 개발
 ![Objective-C](https://img.shields.io/badge/Objective--C-438EFF?style=flat-square&logo=apple&logoColor=white)
